@@ -1,0 +1,1 @@
+Charakteristiken sind Kurven (oder Richtungen), längs derer die Ableitungen von der jeweils betrachteten Variable (meistens Geschwindigkeit) unbestimmt sind und über die hinweg (quer) die Ableitungen unstetig sein können. 

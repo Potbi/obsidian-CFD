@@ -1,0 +1,2 @@
+In einem Rechengebiet, dass aus mehreren Zellen zusammengesetzt ist, entsprechen die Flüsse über den Rand des gesamten Rechengebiets der Summe aller zeitlichen Änderungen der konservativen Variablen im Rechengebiet. Die Flüsse zwischen einzelnen Zellen innerhalb des Gebiets heben sich gegenseitig auf. 
+Diskretisierte [[konservativ|konservative]] Gleichungen, müssen diese Bedingung erfüllen.
