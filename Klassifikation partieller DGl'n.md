@@ -2,15 +2,12 @@ In der Anwendung werden die Grundgleichungen, in der Regel, in [[Differentielle 
 
 ### D > 0 [[Hyperbolisches Gleichungssystem]]
 - 2 reelle und verschiedene [[Charakteristiken]]
-- hyperbolisch im Raum --> für Überschall relevant
-- hyperbolisch in der Zeit --> in der Regel immer der Fall
+- Zeit ist in der Regel hyperbolisch
 
 
 ### D = 0 [[Parabolisches Gleichungssystem]]
 - 1 reelle [[Charakteristiken|Charakteristik]]
-- sonderfall --> nur für exakt Ma = 1 relevant
 
 
 ### D < 0 [[Elliptisches Gleichungssystem]]
 - [[Charakteristiken]] sind imaginär
-- bei Unterschall sind Systeme im Raum elliptisch

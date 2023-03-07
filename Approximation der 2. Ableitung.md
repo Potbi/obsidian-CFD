@@ -34,4 +34,4 @@ Alle drei Verfahren erfüllen die [[Konsistenz|Konsistenzbedingung]].
 vorwärts/rückwärts > zentral
 [[Odd-Even-Decoupling]] is n Ding bei zentralen Schemata.
 
-
+Das zentrale Schema ist weniger stabil als die einseitigen Schemata, da [[Odd-Even-Decoupling]] möglich ist. Außerdem ist zu berücksichtigen, dass bei CFD-Anwendungen in der Regel Gleichungssysteme von [[Hyperbolisches Gleichungssystem|hyperbolischem Charakter]] verwendet werden. Diese haben ein klares Abhängigketisgebiet in, welches wiederum von der Strömungsrichtung abhängt. Informationen der nächsten Zelle in Strömungsrichtung, dürfen also nicht verwertet werden. Bei zentralen Schemata ist dies jedoch der Fall, ebenso bei einseitigen Schemata, die in Strömungsrichtung gerichtet sind.
